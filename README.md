@@ -75,13 +75,6 @@ For robotic cars, we would choose ultrasonic sensor instead of ir sensor since i
 <center> </center>
 
 <div align="center">
-<img src="./images/esp_circuit.jpeg" width="100%">
-<p> Sensor Circuit </p>
-<br/>
-<br/>
-<br/>
-</div>
-<div align="center">
 <img src="./images/output.png" width="100%" />
 <p> Console Output </p>
 <br/>
